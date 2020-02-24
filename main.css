@@ -1,0 +1,93 @@
+.Bitmap {
+  width: 100%;
+  height: 480px;
+  object-fit: contain;
+  background: url('img/bitmap.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.seccion-3 {
+  /* width: 1440px; */
+  /* height: 763px; */
+  /* object-fit: contain; */
+  background: url('img/image-1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.img-Group-45 {
+  width: 100%;
+  /* height: 547px; */
+  vertical-align: middle;
+}
+
+.seccion-4 {
+  background: url('img/group-50@3x.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.paralelogramo {
+  background: url('img/rectangle.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 227.3px;
+  height: 43px;
+  /* font-family: Roboto; */
+  font-size: 22px;
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  vertical-align: middle;
+  /* display: table-cell; */
+  line-height: 1.8;
+  max-width: 100%;
+}
+
+.seccion-5 {
+  /* width: 1440px; */
+  /* height: 468px; */
+  /* object-fit: contain; */
+  background: url('img/seccion_5.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#kit {
+  width: 296px;
+  height: 348px;
+  object-fit: contain;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+#medalla {
+  width: 296px;
+  height: 348px;
+  object-fit: contain;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+.fs-md{font-size: 18px;}
+.fs-20{font-size: 20px;}
+.seccion-7{
+  background-color: #eaeaea;
+  /* height: 133px; */
+}
+.rotate{
+  -webkit-transform:rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
